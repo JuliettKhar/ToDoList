@@ -1,1 +1,1 @@
-# ToDoList on vanilla Js (in process)
+# ToDoList on vanilla Js
