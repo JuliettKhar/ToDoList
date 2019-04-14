@@ -1,1 +1,3 @@
-require('app.js');
+import * as app from 'app.js';
+
+app.init();
