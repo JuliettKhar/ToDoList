@@ -114,7 +114,7 @@ function subscribe() {
 	document.addEventListener('DOMContentLoaded', getTasks);
 }
 
-export function init() {
+window.onload = init() {
 	findElements();
 	subscribe();
 }
